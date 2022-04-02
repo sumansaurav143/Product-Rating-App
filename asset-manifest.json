@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Product-Rating-App/static/css/main.859b1c65.css",
+    "main.js": "/Product-Rating-App/static/js/main.b6a68a27.js",
+    "static/media/shoe.jpeg": "/Product-Rating-App/static/media/shoe.4a6383846090adb35dea.jpeg",
+    "static/media/light.jpeg": "/Product-Rating-App/static/media/light.d8752cfdcbc4aac2e378.jpeg",
+    "static/media/chair.jpeg": "/Product-Rating-App/static/media/chair.a0f449b38a53b4bfc1cc.jpeg",
+    "static/media/watch.jpeg": "/Product-Rating-App/static/media/watch.afc01a06fbf283e36f37.jpeg",
+    "index.html": "/Product-Rating-App/index.html",
+    "main.859b1c65.css.map": "/Product-Rating-App/static/css/main.859b1c65.css.map",
+    "main.b6a68a27.js.map": "/Product-Rating-App/static/js/main.b6a68a27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.859b1c65.css",
+    "static/js/main.b6a68a27.js"
+  ]
+}
